@@ -13,8 +13,5 @@ Instructions to run the notebook are at the top of the notebook.
 Input for lga to be checked is at the top of the notebook, but results will be output at the bottom of the notebook.
 Please note that invalid lga will not have any results. A sample lga has been provided in the instructions.
 
-Submitted by:
-#### Name: LECK WEI SHENG IAN
-#### NUS ID: A0168177R
-#### Name: WOO KENG THONG
-#### NUS ID: A0167991L
+Part 1 was done for a data challenge as part of our module assessment: https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
+Part 2 was additional requirements set by our Professor to provide prescriptive analytics on how to minimize cost of provisioning water to communities around non-functional pumps.
